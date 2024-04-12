@@ -1,12 +1,13 @@
 # BuzzFeed Clone - Angular Developer Challenge
 
-![BuzzFeed Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BuzzFeed.svg/1200px-BuzzFeed.svg.png)
+![image](https://github.com/OGabrielFonseca/angular-buzzfeed-quizz-clone/assets/91344667/e43608b8-b967-4199-b456-19b04cbce2c9)
+
 
 Bem-vindo ao BuzzFeed Clone, um projeto desafiador desenvolvido durante o curso de Angular Developer na plataforma DIO (Digital Innovation One). Este projeto replica a funcionalidade e o design do famoso site BuzzFeed, com um toque pessoal.
 
 ## Sobre o Projeto
 
-Este projeto foi criado para aprimorar minhas habilidades em Angular, HTML, CSS e TypeScript. Ele replica a funcionalidade do BuzzFeed, incluindo a capacidade de visualizar diferentes categorias de notícias, fazer quizzes e muito mais.
+Este projeto foi criado para aprimorar minhas habilidades em Angular, HTML, CSS e TypeScript. Ele replica a funcionalidade de quiz do BuzzFeed.
 
 ## Tecnologias Utilizadas
 
